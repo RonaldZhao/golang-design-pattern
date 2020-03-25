@@ -15,8 +15,10 @@ jobs:
         uses: actions/setup-go@v1
         with:
           go-version: 1.x
-        run: go version
         id: go
+      
+      - name: Echo go version
+        run: go version
       
       - name: Run test
         run: go test ./...

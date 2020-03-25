@@ -1,6 +1,6 @@
 # Go 语言设计模式
 
-![test](https://github.com/RonaldZhao/golang-design-pattern/workflows/test/badge.svg?branch=master)
+![test](https://github.com/RonaldZhao/golang-design-pattern/workflows/test/badge.svg?branch=master&event=push)
 
 Go 语言设计模式的实例代码
 
